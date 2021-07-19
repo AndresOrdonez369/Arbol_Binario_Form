@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\bin\Debug\Proyecto4-ArbolesBinarios.exe.config
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\bin\Debug\Proyecto4-ArbolesBinarios.exe
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\bin\Debug\Proyecto4-ArbolesBinarios.pdb
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4-ArbolesBinarios.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4_ArbolesBinarios.Form1.resources
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4_ArbolesBinarios.Properties.Resources.resources
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4-ArbolesBinarios.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4-ArbolesBinarios.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4-ArbolesBinarios.exe
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4-ArbolesBinarios.pdb
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4_ArbolesBinarios.MainMenu.resources
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4_ArbolesBinarios.Escenario1.resources
+C:\Users\andre\source\repos\Proyecto4-ArbolesBinarios\Proyecto4-ArbolesBinarios\obj\Debug\Proyecto4_ArbolesBinarios.Escenario2.resources
